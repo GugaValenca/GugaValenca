@@ -30,7 +30,10 @@ I'm open to collaboration and eager to grow alongside innovative teams. Check ou
 
  ##
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Languages ​​and Technologies
+
+These are the main tools and technologies that I currently use to build scalable and innovative solutions.
+
 
 <img 
     align="left" 
