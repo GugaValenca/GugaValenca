@@ -2,7 +2,22 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+👋 Hi there, I'm Gustavo Brunno!
+I'm a Fullstack Developer building my career in web development. Passionate about creating modern, scalable, and user-focused applications, I'm continuously expanding my skills in JavaScript, Angular, React, Next.js, Vue, Node.js, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, and MySQL.
+
+🌟 What I bring to the table:
+
+Frontend Development: Crafting responsive and dynamic user interfaces.
+Backend Development: Developing solid server-side logic and APIs.
+Problem Solving: Strong foundation in algorithms and clean coding practices.
+Continuous Learning: Always exploring new technologies and best practices.
+🚀 Currently:
+
+Working on projects to solidify my fullstack skills.
+Preparing for career opportunities in the U.S. tech industry.
+Engaging with the dev community and collaborating on open-source projects.
+📫 Let's connect!
+I'm open to collaboration and eager to grow alongside innovative teams. Check out my projects and feel free to reach out!.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
