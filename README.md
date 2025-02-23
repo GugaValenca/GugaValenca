@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Gustavo Valenca
+## 👨🏻‍💻 Gustavo Valenca
 
 **`Desenvolvedor FullStack`**
 
