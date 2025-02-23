@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-# 👨🏻‍💻 Hi there, I'm Gustavo Valença!
+# 👨🏻‍💻 Hi there, I'm Gustavo Valenca!
 
 I'm a **Fullstack Developer** building my career in web development. Passionate about creating modern, scalable, and user-focused applications, I'm continuously expanding my skills in **JavaScript, Angular, React, Next.js, Vue, Node.js, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp**, and **MySQL**.
 
