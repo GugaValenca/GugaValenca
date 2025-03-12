@@ -124,6 +124,7 @@ These are the main tools and technologies that I currently use to build scalable
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GugaValenca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GugaValenca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GugaValenca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GugaValenca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
