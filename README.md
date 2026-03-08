@@ -1,7 +1,9 @@
 
 # 👨🏻‍💻 Gustavo Valenca
 
-I'm a **Fullstack Developer** building my career in web development. Passionate about creating modern, scalable, and user-focused applications, I'm continuously expanding my skills in **JavaScript, Angular, React, Next.js, Vue, Node.js, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp**, and **MySQL**.
+I'm a **Fullstack Developer** building practical, scalable, and user-focused web applications with strong attention to real-world workflows and clean project structure. My work spans both **frontend and backend development**, including **authentication systems, REST APIs, dashboards, CRUD platforms, business integrations, and deployment-ready portfolio projects**.
+
+My projects are built with technologies such as **Python, Django, Django REST Framework, FastAPI, JavaScript, TypeScript, React, Vite, HTML, CSS, Bootstrap, Tailwind CSS, PostgreSQL, SQLite, NoSQL, Docker, SQLAlchemy, HTTPX, and modern API-driven development practices**. I'm focused on growing through hands-on development and building a portfolio that reflects practical problem-solving and production-oriented thinking.
 
 🌟 **What I bring to the table:**
 - **Frontend Development:** Crafting responsive and dynamic user interfaces.
@@ -10,14 +12,14 @@ I'm a **Fullstack Developer** building my career in web development. Passionate 
 - **Continuous Learning:** Always exploring new technologies and best practices.
 
 🚀 **Currently:**
-- Working on projects to solidify my fullstack skills.
-- Preparing for career opportunities in the U.S. tech industry.
-- Engaging with the dev community and collaborating on open-source projects.
+- Developing fullstack web applications with a focus on real-world workflows, clean architecture, and production-oriented quality.
+- Working with **Python, Django, TypeScript, React, REST APIs, databases, authentication systems, and modern frontend/backend development practices**.
+- Improving software quality through maintainable code, practical problem-solving, technical documentation, and scalable project structure.
+- Building a portfolio of applications that reflects professional standards in usability, performance, organization, and real-world functionality.
 
 📫 **Let's connect!**
 
-I'm open to collaboration and eager to grow alongside innovative teams. Check out my projects and feel free to reach out!
-
+Feel free to explore my projects and connect with me to talk about web development, software engineering, and modern product building. I value meaningful professional connections and conversations focused on creating practical, well-structured, and high-quality applications.
  
  
 <div> 
